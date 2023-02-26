@@ -9,10 +9,20 @@ public static void main(String[] args) {
 	
 	
 }
-	
+ public void printMe () {
+	 
+	 System.out.println("git test 1");
+ }
 
 	
-	
-	
+ public void printMe1 () {
+	 
+	 System.out.println("git test 1");
+ }	
+ public void printMe2 () {
+	 
+	 System.out.println("git test 1");
+ }	
 
 }
+
